@@ -18,7 +18,7 @@
     </span>
     <span>{{doSomething}}</span>
     <input type="button" value="change" v-on:click="doSomething"/>
-fanyuting
+fanyuting123
   </div>
   <div v-bind:class="[activeClass, errorClass]"></div>
   </body>
